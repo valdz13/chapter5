@@ -1,0 +1,27 @@
+{
+  "name": "01_nodejs",
+  "version": "1.0.0",
+  "description": "Belajar nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node sayHai.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valdz13/chapter5.git"
+  },
+  "keywords": [
+    "nodejs",
+    "binar",
+    "basic"
+  ],
+  "author": "DK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/valdz13/chapter5/issues"
+  },
+  "homepage": "https://github.com/valdz13/chapter5#readme",
+  "dependencies": {
+    "mathjs": "^10.6.1"
+  }
+}
